@@ -1,6 +1,6 @@
 # Weather App
 
-A new Flutter project, it is display weather for different cites,
+A new Flutter project, it is display weather for different cities,
 I was use 2 API one for get weather detail from latitude and longitude, and anther API is give me latitude and longitude for different cities.
 
 <h3>SCREENSHORT</h3>
