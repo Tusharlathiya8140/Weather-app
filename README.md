@@ -1,16 +1,16 @@
-# eight_course_app
+# Weather App
 
-A new Flutter project.
+A new Flutter project, it is display weather for different cites,
+I was use 2 API one for get weather detail from latitude and longitude, and anther API is give me latitude and longitude for different cities.
 
-## Getting Started
+<h3>SCREENSHORT</h3>
+<table>
+  <tr>
+    <th>Main_Screen</th>
+    <th>Second_Screen</th>
+  <tr>
+    <td><img src = "https://github.com/Tusharlathiya8140/Weather-app/blob/master/main.png?raw=true"></td>
+    <td><img src = "https://github.com/Tusharlathiya8140/Weather-app/blob/master/second_screen.png?raw=true"></td>
+  </tr>
+</table>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
